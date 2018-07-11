@@ -6,7 +6,7 @@ public static void main(String ar[])
 
 {
 	System.out.println("hello sample2");
-asnkjanxkj	
+	
 
 
 }
